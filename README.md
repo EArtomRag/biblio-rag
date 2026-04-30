@@ -95,3 +95,10 @@ Open `http://localhost:3000` and start chatting with the archive!
 
 **Sample Dataset:**
 The Emanuele Artom bibliographic archive is included for testing and demonstrates the system's capabilities with real scholarly content.
+
+## License
+
+This repository includes:
+
+- Source code → licensed under the MIT License (see LICENSE)
+- Documentation, data, and evaluation materials → licensed under CC BY 4.0 (see LICENSE_DATA)
